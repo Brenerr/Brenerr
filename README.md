@@ -1,7 +1,7 @@
 ### Brener Alves
 
-[![Linkedin Badge](https://img.shields.io/badge/-Brener%20Alves-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/brener-alves/)](www.linkedin.com/in/brener-alves/) 
-[![Gmail Badge](https://img.shields.io/badge/-Brener820@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Brener820@gmail.com)](mailto:Brener820@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Brener%20Alves-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/brener-alves)](www.linkedin.com/in/brener-alves) 
+[![Gmail Badge](https://img.shields.io/badge/-Brener820@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brener820@gmail.com)](mailto:Brener820@gmail.com)
 
 I am a fullstack developer. Computer Engineering student at UEMG and bootcamp GoStack-Rocketseat.
 
